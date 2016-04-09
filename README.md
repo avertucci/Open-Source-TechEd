@@ -6,9 +6,9 @@
 
 Open Source TechEd is a fully featured repository dedicated to Technology Educators with focus on standardization, networking, and continuous improvement within education.
 
-## Thanks
+# Thanks
 
-Thanks to the SUNYIT IDT program for providing the forward thinking to start this project.  for providing us with a free account which lets us support old browsers like IE8.
+Thanks to the SUNYIT IDT program for providing the forward thinking to start this project.
 
 # License
 
