@@ -1,20 +1,20 @@
-Summary
+**Summary**
 
 Students are introduced to the concepts of air pollution and air quality. The three lesson parts (including its associated activities) focus on the prerequisites for understanding air pollution. First, students use M&M® candies to create pie graphs that express their understanding of the composition of air. Next, they watch and conduct several simple experiments to develop an understanding of the properties of air (it has mass, it takes up space, it can move, it exerts pressure, it can do work). Finally, students develop awareness and understanding of the daily air quality using the Air Quality Index (AQI) listed in the newspaper or online. In an associated literacy activity, students explore the environmental history timeline.
 
-Engineering Connection
+**Engineering Connection**
 
 Air pollution is becoming an increasing concern as we learn more about the adverse health effects of poor air quality. Engineers investigate the source and effect of air pollution on people and their environment, and do their best to prevent it and clean it up. Environmental engineers must know the composition of air and chemicals to determine how to mitigate poor air quality.
 
-Educational Standards 
+**Educational Standards**
 
--     Colorado: Science<img src="./media/image1.gif" />
+-     Colorado: Science
 
--     International Technology and Engineering Educators Association: Technology<img src="./media/image1.gif" />
+-     International Technology and Engineering Educators Association: Technology
 
--     Next Generation Science Standards: Science<img src="./media/image1.gif" />
+-     Next Generation Science Standards: Science
 
-Learning Objectives
+**Learning Objectives**
 
 After this lesson, students should be able to:
 
@@ -56,9 +56,10 @@ Discuss the following questions with the students.
 
 -   What could happen if you breathe polluted air? (Answer: Polluted air can cause itchy eyes, coughing and diseases for humans and other life on Earth, as well as change or destroy our buildings, etc. Very find dust in the air can actually enter our bloodstream directly and cause both respirator and cardiovascular problems. See the Background section for more details.)
 
--   How do air pollutants affect the earth on a global scale? (Answer: A number of pollutants, including carbon dioxide (CO<sub>2</sub>) and methane (CH<sub>4</sub>), hold in infrared radiation (heat) very well and act as a blanket for the planet. Also pollutants such as chlorofluorohydrocarbons (CFCs) deplete the protective ozone layer, thereby allowing more ultraviolet light to enter into the atmosphere. Furthermore, dust or particulate matter collects on the polar ice caps and results in more energy being absorbed, rather than reflected. (Note: Show students Figure 2 for a simplified illustration of how greenhouse gases promote global wraming.)<img src="./media/image2.jpeg" width="525" height="347" />Figure 2. The greenhouse effect.
+-   How do air pollutants affect the earth on a global scale? (Answer: A number of pollutants, including carbon dioxide (CO<sub>2</sub>) and methane (CH<sub>4</sub>), hold in infrared radiation (heat) very well and act as a blanket for the planet. Also pollutants such as chlorofluorohydrocarbons (CFCs) deplete the protective ozone layer, thereby allowing more ultraviolet light to enter into the atmosphere. Furthermore, dust or particulate matter collects on the polar ice caps and results in more energy being absorbed, rather than reflected. (Note: Show students Figure 2 for a simplified illustration of how greenhouse gases promote global wraming.)
 
-> *copyright*
+<img src="./media/image2.jpeg" width="525" height="347" />Figure 2. The greenhouse effect.
+
 
 -   Distribute the attached Air Pollution Sources chart. Briefly discuss the contents. Ask students to keep this chart for reference during the Air Pollution unit.
 
@@ -72,7 +73,7 @@ Share the following information with the students.
 
 -   Engineers begin with these same basic understandings of air and air pollution in order to develop air pollution prevention and clean-up techniques and technologies.
 
-Lesson Background and Concepts for Teachers
+**Lesson Background and Concepts for Teachers**
 
 Most of the time, we hardly notice the air around us. We cannot usually see it or taste it. Air does not usually smell (but it does carry substances that we do smell). However, you can feel air when it moves and you can see the effects of air on your surroundings. When air moves, it has great power (to push sailboats, drive windmills and move clouds), and when it is compressed (squashed into a small space), it has great strength (air in a tire supports a vehicle and helps a helicopter to rise into the air).
 
@@ -86,7 +87,6 @@ Serious problems started in the 1800s with the coal-burning factories of the Ind
 
 <img src="./media/image3.jpeg" width="480" height="299" />Figure 3. Modern day industrial air pollution.
 
-*copyright*
 
 In the 1970s, the U.S. passed legislation to curb sources of air pollution and set standards for air quality. In 1987, more than 20 nations signed an agreement to limit CFC (chlorofluorocarbon) production and work towards eliminating them altogether. In 1989, major car manufacturers and oil companies funded a $40 million research study to help find ways to reduce emissions. In 1990, Congress passed the Clean Air Act, which requires industry and individuals to take additional steps to clean the air in our cities.
 
@@ -120,7 +120,6 @@ The *water cycle* usually cleans the air of pollutants naturally. Currently, h
 
 <img src="./media/image4.jpeg" width="500" height="483" />Figure 4. The air pollution cycle. Pollution enters the water cycle and contaminates our natural resources.
 
-*copyright*
 
 **What Are Air Pollutant Solutions?**
 
