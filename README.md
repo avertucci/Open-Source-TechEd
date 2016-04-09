@@ -1,4 +1,4 @@
-<img src="" alt="Open Source TechEd" title="Open Source Technology Education" />
+<img src="https://github.com/avertucci/Open-Source-TechEd/blob/master/Images/logo-small.png?raw=true" alt="Open Source TechEd" title="Open Source Technology Education" />
 
 **Be sure to checkout the wiki for more information**
 
