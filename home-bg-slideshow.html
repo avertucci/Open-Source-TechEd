@@ -62,34 +62,20 @@
             </header>	
             <!-- ////////////////////// END   TOP HEADER /////////////////////// -->
 
-
-
             <div class="container warp">
+                <!-- ////////////////////// start slider-bg /////////////////////// -->
 
-                <!-- ////////////////////// start   main slider /////////////////////// -->
-                <div class="main-slider-container">
+                <div class="slider-bg">
+                    <p>BRANDING / DESIGN / DEVELOPMENT / PHOTO</p>
+                    <h1>welcome to Thor template ;)</h1>
+                    <div class="btn-group">
+                        <a href="#our-services" class="primary-btn">see more</a>
+                        <a href="" class="success-btn">purchase now</a>
+                    </div><!--end btn grop-->
 
-                    <ul class="main-slider">
-                        <li>
-                            <img src="http://placehold.it/1110x500" alt="" /> 
+                </div><!--end video bg -->
 
-                        </li>
-                        <li>
-                            <img src="http://placehold.it/1110x500" alt="" /> 
-
-                        </li>
-
-                        <li>
-                            <img src="http://placehold.it/1110x500" alt="" /> 
-
-                        </li>
-
-                    </ul>
-                </div><!--end main slider -->
-
-
-                <!-- ////////////////////// end   main slider /////////////////////// -->
-
+                <!-- ////////////////////// end  slider-bg /////////////////////// -->
 
 
 
@@ -645,8 +631,8 @@
                 </div><!--end our clients  -->
                 <!-- ////////////////////// end    our clients /////////////////////// -->
 
-                
-                
+
+
                 <!-- ////////////////////// start contact us/////////////////////// -->
                 <div class="section-top-line contact-us" id="contact-us">
                     <div class="block-title text-center">
@@ -719,6 +705,23 @@
         <script src="js/plugins.js"></script>
         <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
         <script src="js/custom.js"></script>
+        <script>
+            /*video bg*/
 
+            $(".slider-bg").vegas({
+                overlay: true,
+                transition: 'fade',
+                transitionDuration: 4000,
+                delay: 10000,
+                animation: 'random',
+                animationDuration: 20000,
+                slides: [
+                    {src: "http://placehold.it/1920x800"},
+                    {src: "http://placehold.it/1920x800"},
+                    {src: "http://placehold.it/1920x800"}
+                ]
+            });
+
+        </script>
     </body>
 </html>
