@@ -4,7 +4,7 @@ Students are introduced to the concepts of air pollution and air quality. The th
 
 **Engineering Connection**
 
-Air pollution is becoming an increasing concern as we learn more about the adverse health effects of poor air quality. Engineers investigate the source and effect of air pollution on people and their environment, and do their best to prevent it and clean it up. Environmental engineers must know the composition of air and chemicals to determine how to mitigate poor air quality.
+Air pollution, is becoming an increasing concern as we learn more about the adverse health effects of poor air quality. Engineers investigate the source and effect of air pollution on people and their environment, and do their best to prevent it and clean it up. Environmental engineers must know the composition of air and chemicals to determine how to mitigate poor air quality.
 
 **Educational Standards**
 
